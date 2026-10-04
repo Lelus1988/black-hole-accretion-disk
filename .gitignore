@@ -39,6 +39,7 @@ raylib/
 # Screenshots
 assets/screenshots/*.png
 !assets/screenshots/.gitkeep
+!assets/screenshots/black-hole-preview.png
 
 # Logs
 *.log
