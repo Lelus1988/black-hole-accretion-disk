@@ -2,7 +2,9 @@
 
 A real-time black hole and animated accretion disk simulation written in C++17 with raylib and OpenGL shaders.
 
-![Black hole simulation preview](assets/screenshots/black-hole-preview.png)
+<p align="center">
+  <img src="assets/screenshots/black-hole-preview.png" alt="Black hole simulation preview" width="100%">
+</p>
 
 ## Features
 
